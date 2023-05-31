@@ -1,2 +1,0 @@
-# sebota
-SEBOTA

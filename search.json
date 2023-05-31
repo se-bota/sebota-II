@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "materials.html",
+    "href": "materials.html",
+    "title": "Materiales de interés para el curso",
+    "section": "",
+    "text": "Datasets\nSlides"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "SEBOTA I Edición",
+    "section": "",
+    "text": "En esta página web puedes encontrar información acerca de la primera edición de las salidas de SEBOTA.\n\nPara cualquier duda, no dudéis en contactar con nosotros!\n\nIgnacio Ramos Gutiérrez (ig.ramosgutierrez@gmail.com)\n\n\nJosé Ignacio Márquez-Corro (jimarcorr@gmail.com)\n\n\nSara Martín Hernanz (sara.martin.hernanz@gmail.com)"
+  },
+  {
     "objectID": "schedule.html",
     "href": "schedule.html",
 <<<<<<< HEAD
@@ -27,6 +41,7 @@
     "title": "Calendario",
     "section": "Domingo 18 de junio",
     "text": "Domingo 18 de junio\n\nSalida al Puerto de Somiedo\nSalida entre 9:00-9:30: Punto de reunión: Puerto de Somiedo (ver aquí).\n\nFlora asociada a piornales subalpinos y tremedales.\n\nRetorno a Pola de Somiedo 14:00h."
+<<<<<<< HEAD
 =======
     "title": "Schedule",
     "section": "",
@@ -50,5 +65,7 @@
 =======
     "text": "Course info & details here"
 >>>>>>> 19ab8ed (Built site for gh-pages)
+=======
+>>>>>>> 308af408c4692c17f72b7d4a993f160fe0548672
   }
 ]
