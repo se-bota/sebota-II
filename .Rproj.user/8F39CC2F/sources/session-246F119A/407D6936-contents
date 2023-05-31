@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "SEBOTA I Edición"
+  sidebar:
+    background: primary
+    logo: "docs/images/sebot_logo_tr.png"
+    pinned: true
+    align: center
+    tools:
+      - icon: github
+        href: https://se-bota.github.io/sebota/
+        text: Inicio
+    style: docked
+    contents:
+      - href: index.qmd
+        text: Inicio
+      - href: schedule.qmd
+        text: Calendario
+      - href: materials.qmd
+        text: Materiales
+
+
+format:
+  html:
+    theme: cosmo
+    # css: styles.css
+    toc: true
+
+execute:
+  freeze: auto
+

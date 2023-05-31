@@ -2,6 +2,7 @@
   {
     "objectID": "schedule.html",
     "href": "schedule.html",
+<<<<<<< HEAD
     "title": "Calendario",
     "section": "",
     "text": "Calendario de la salida:"
@@ -26,6 +27,11 @@
     "title": "Calendario",
     "section": "Domingo 18 de junio",
     "text": "Domingo 18 de junio\n\nSalida al Puerto de Somiedo\nSalida entre 9:00-9:30: Punto de reunión: Puerto de Somiedo (ver aquí).\n\nFlora asociada a piornales subalpinos y tremedales.\n\nRetorno a Pola de Somiedo 14:00h."
+=======
+    "title": "Schedule",
+    "section": "",
+    "text": "Example schedule:\n\n\n\n\n\n\n\n\n\nMorning\nAfternoon\n\n\n\n\nL\nIntro + Data manipulation\ngit / GitHub\n\n\nM\nGeneralised Linear Models\nData visualisation\n\n\nX\nMixed models / GAM / Bayes\nFunctional programming + Students work\n\n\nJ\nMultivariate analyses\nReproducible workflows\n\n\nV\nUsing R as GIS + Students work\nProject presentations"
+>>>>>>> 19ab8ed (Built site for gh-pages)
   },
   {
     "objectID": "materials.html",
@@ -39,6 +45,10 @@
     "href": "index.html",
     "title": "SEBOTA I Edición",
     "section": "",
+<<<<<<< HEAD
     "text": "En esta página web puedes encontrar información acerca de la primera edición de las salidas de SEBOTA.\n\nPara cualquier duda, no dudéis en contactar con nosotros!\n\nIgnacio Ramos Gutiérrez (ig.ramosgutierrez@gmail.com)\n\n\nJosé Ignacio Márquez-Corro (jimarcorr@gmail.com)\n\n\nSara Martín Hernanz (sara.martin.hernanz@gmail.com)"
+=======
+    "text": "Course info & details here"
+>>>>>>> 19ab8ed (Built site for gh-pages)
   }
 ]

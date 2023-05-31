@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+<<<<<<< HEAD
     <loc>https://github.com/se-bota/sebota/schedule.html</loc>
     <lastmod>2023-05-31T21:55:11.302Z</lastmod>
   </url>
@@ -11,5 +12,17 @@
   <url>
     <loc>https://github.com/se-bota/sebota/index.html</loc>
     <lastmod>2023-05-31T21:55:12.554Z</lastmod>
+=======
+    <loc>https://github.com/se-bota/sebota.github.io/schedule.html</loc>
+    <lastmod>2023-05-31T18:21:12.424Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/se-bota/sebota.github.io/materials.html</loc>
+    <lastmod>2023-05-31T18:21:13.256Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/se-bota/sebota.github.io/index.html</loc>
+    <lastmod>2023-05-31T18:21:13.600Z</lastmod>
+>>>>>>> 19ab8ed (Built site for gh-pages)
   </url>
 </urlset>
