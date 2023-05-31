@@ -6,23 +6,22 @@ website:
   title: "SEBOTA I Edición"
   sidebar:
     background: primary
-    # logo: "images/logo.png"
+    logo: "images/sebot_logo_tr.png"
     pinned: true
     align: center
     tools:
       - icon: github
-        href: https://github.com/Pakillo/quarto-course-website-template
-        text: GitHub
+        href: https://se-bota.github.io/sebota/
+        text: Inicio
     style: docked
     contents:
       - href: index.qmd
-        text: Home
+        text: Inicio
       - href: schedule.qmd
-        text: Schedule
+        text: Calendario
       - href: materials.qmd
-        text: Materials
-      - href: https://github.com/Pakillo/quarto-course-website-template/discussions
-        text: Forum
+        text: Materiales
+
 
 format:
   html:
