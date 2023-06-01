@@ -1,33 +1,5 @@
 [
   {
-    "objectID": "materials.html",
-    "href": "materials.html",
-    "title": "Materiales de interés para el curso",
-    "section": "",
-    "text": "Mapa de Somiedo"
-  },
-  {
-    "objectID": "materials.html#mapas",
-    "href": "materials.html#mapas",
-    "title": "Materiales de interés para el curso",
-    "section": "",
-    "text": "Mapa de Somiedo"
-  },
-  {
-    "objectID": "materials.html#guías",
-    "href": "materials.html#guías",
-    "title": "Materiales de interés para el curso",
-    "section": "Guías",
-    "text": "Guías\nFlora del País Vasco (`r cat(“1E9”)``)\nCatálogo de las plantas vasculares del Principado de Asturias(`r cat(“1E9”)``)\nLa protección de la flora vascular del Principado de Asturias (Fernández-Prieto et al., 2007)(`r cat(“1E9”)``)"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "SEBOTA I Edición",
-    "section": "",
-    "text": "En esta página web puedes encontrar información acerca de la primera edición de las salidas de SEBOTA.\n\nPara cualquier duda, no dudéis en contactar con nosotros!\n\nIgnacio Ramos Gutiérrez (ig.ramosgutierrez@gmail.com)\n\n\nJosé Ignacio Márquez-Corro (jimarcorr@gmail.com)\n\n\nSara Martín Hernanz (sara.martin.hernanz@gmail.com)"
-  },
-  {
     "objectID": "schedule.html",
     "href": "schedule.html",
     "title": "Calendario",
@@ -54,6 +26,34 @@
     "title": "Calendario",
     "section": "Domingo 18 de junio",
     "text": "Domingo 18 de junio\n\nSalida al Puerto de Somiedo\nSalida entre 9:00-9:30: Punto de reunión: Puerto de Somiedo (ver aquí).\n\nFlora asociada a piornales subalpinos y tremedales.\n\nRetorno a Pola de Somiedo 14:00h."
+  },
+  {
+    "objectID": "materials.html",
+    "href": "materials.html",
+    "title": "Materiales de interés para el curso",
+    "section": "",
+    "text": "Mapa de Somiedo"
+  },
+  {
+    "objectID": "materials.html#mapas",
+    "href": "materials.html#mapas",
+    "title": "Materiales de interés para el curso",
+    "section": "",
+    "text": "Mapa de Somiedo"
+  },
+  {
+    "objectID": "materials.html#guías",
+    "href": "materials.html#guías",
+    "title": "Materiales de interés para el curso",
+    "section": "Guías",
+    "text": "Guías\nFlora del País Vasco (r cat(\"\\U21E9\"))\nCatálogo de las plantas vasculares del Principado de Asturias(r cat(\"\\U21E9\"))\nLa protección de la flora vascular del Principado de Asturias (Fernández-Prieto et al., 2007)(r cat(\"\\U21E9\"))"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "SEBOTA I Edición",
+    "section": "",
+    "text": "En esta página web puedes encontrar información acerca de la primera edición de las salidas de SEBOTA.\n\nPara cualquier duda, no dudéis en contactar con nosotros!\n\nIgnacio Ramos Gutiérrez (ig.ramosgutierrez@gmail.com)\n\n\nJosé Ignacio Márquez-Corro (jimarcorr@gmail.com)\n\n\nSara Martín Hernanz (sara.martin.hernanz@gmail.com)"
   },
   {
     "objectID": "participantes.html",
