@@ -10,8 +10,8 @@ title: "Materiales de interés para el curso"
 
 ## Guías
 
-[Flora del País Vasco (`r cat("\U21E9")`)](http://www.jolube.es/pdf/Claves_Flora_PaisVasco_1999_Indice.pdf)
+[Flora del País Vasco](http://www.jolube.es/pdf/Claves_Flora_PaisVasco_1999_Indice.pdf)
 
-[Catálogo de las plantas vasculares del Principado de Asturias(`r cat("\U21E9")`)](https://herbario.uniovi.es/c/document_library/get_file?uuid=bfe7d7fd-7fa5-45ac-a615-c69f39ead9ee&groupId=3511378)
+[Catálogo de las plantas vasculares del Principado de Asturias](https://herbario.uniovi.es/c/document_library/get_file?uuid=bfe7d7fd-7fa5-45ac-a615-c69f39ead9ee&groupId=3511378)
 
-[La protección de la flora vascular del Principado de Asturias *(Fernández-Prieto et al., 2007)*(`r cat("\U21E9")`)](https://www.indurot.uniovi.es/c/document_library/get_file?uuid=c8bee50b-9ba2-456a-80dc-ae48c51d6bb9&groupId=2490442%22)
+[La protección de la flora vascular del Principado de Asturias *(Fernández-Prieto et al., 2007)*](https://www.indurot.uniovi.es/c/document_library/get_file?uuid=c8bee50b-9ba2-456a-80dc-ae48c51d6bb9&groupId=2490442%22)
