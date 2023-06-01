@@ -1,6 +1,6 @@
 ---
 title: Jokin Belmonte Torres
-sortby: 26
+sortby: 29
 subtitle: Universidad del País Vasco (UPV-EHU)
 image: blank.png
 toc: false
