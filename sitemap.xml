@@ -1,39 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-<<<<<<< HEAD
-<<<<<<< HEAD
-    <loc>https://github.com/se-bota/sebota/schedule.html</loc>
-    <lastmod>2023-05-31T21:55:11.302Z</lastmod>
-  </url>
-  <url>
-=======
->>>>>>> 308af408c4692c17f72b7d4a993f160fe0548672
     <loc>https://github.com/se-bota/sebota/materials.html</loc>
-    <lastmod>2023-05-31T22:39:43.388Z</lastmod>
+    <lastmod>2023-06-01T08:16:49.027Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/se-bota/sebota/index.html</loc>
-<<<<<<< HEAD
-    <lastmod>2023-05-31T21:55:12.554Z</lastmod>
-=======
-    <loc>https://github.com/se-bota/sebota.github.io/schedule.html</loc>
-    <lastmod>2023-05-31T18:21:12.424Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/se-bota/sebota.github.io/materials.html</loc>
-    <lastmod>2023-05-31T18:21:13.256Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/se-bota/sebota.github.io/index.html</loc>
-    <lastmod>2023-05-31T18:21:13.600Z</lastmod>
->>>>>>> 19ab8ed (Built site for gh-pages)
-=======
-    <lastmod>2023-05-31T22:39:44.000Z</lastmod>
+    <lastmod>2023-06-01T08:16:50.735Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/se-bota/sebota/schedule.html</loc>
-    <lastmod>2023-05-31T22:39:44.344Z</lastmod>
->>>>>>> 308af408c4692c17f72b7d4a993f160fe0548672
+    <lastmod>2023-06-01T08:16:51.103Z</lastmod>
   </url>
 </urlset>
