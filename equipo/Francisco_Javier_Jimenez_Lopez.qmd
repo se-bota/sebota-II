@@ -1,0 +1,18 @@
+---
+title: Francisco Javier Jimenez Lopez
+sortby: 6
+subtitle: Universidad Rey Juan Carlos.
+image: https://biodiversos.org/wp-content/uploads/2022/10/Javier-Jimenez-225x300.jpg
+toc: false
+about:
+  id: person-profile
+  template: jolla
+ 
+---
+
+:::{#person-profile}
+:::
+
+
+
+

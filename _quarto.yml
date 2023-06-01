@@ -21,6 +21,9 @@ website:
         text: Calendario
       - href: materials.qmd
         text: Materiales
+      - href: participantes.qmd
+        text: Participantes
+
 
 
 format:

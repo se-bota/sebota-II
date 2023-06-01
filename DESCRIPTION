@@ -2,6 +2,7 @@ Title: SEBOTA I Edición
 Version: 0.1.0
 Authors@R: c(
     person("Ignacio", "Ramos-Gutiérrez", , "ignacio.ramosgutierrez@uam.es", role = c("aut", "cre")),
+    person("Borja", ", "Jiménez Alfar", role = "aut"),
     person("Jose Ignacio", ", "Márquez-Corro", role = "aut"),
     person("Sara", "Martín-Hernanz", role = "aut")
   )

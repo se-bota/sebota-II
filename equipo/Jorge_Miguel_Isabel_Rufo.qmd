@@ -1,0 +1,18 @@
+---
+title: Jorge Miguel Isabel Rufo
+sortby: 12
+subtitle: Tragsatec
+image: http://www.conama.org/conama/download/files/conamalocal2019/Fotos%20fichas%20personas%202019/231472_ST-17_Santiago%20Sardinero.jpg
+toc: false
+about:
+  id: person-profile
+  template: jolla
+ 
+---
+
+:::{#person-profile}
+:::
+
+
+
+

@@ -1,0 +1,18 @@
+---
+title: Francisco Javier Pérez García
+sortby: 24
+subtitle: Universidad de Almería
+image: https://lanochedelosinvestigadores.fundaciondescubre.es/files/2016/09/Foto-Francisco-J-Perez-Garcia-900x900.jpg
+toc: false
+about:
+  id: person-profile
+  template: jolla
+ 
+---
+
+:::{#person-profile}
+:::
+
+
+
+
