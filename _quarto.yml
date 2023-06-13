@@ -6,7 +6,7 @@ website:
   title: "SEBOTA I Edición"
   sidebar:
     background: primary
-    logo: "sebot_logo_tr.png"
+    logo: "SEBOTA_logo.png"
     pinned: true
     align: center
     tools:
