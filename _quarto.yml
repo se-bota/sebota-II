@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "SEBOTA I Edición"
+  title: "SEBOTA II Edición"
   sidebar:
     background: primary
     logo: "SEBOTA_logo.png"
@@ -23,6 +23,8 @@ website:
         text: Materiales
       - href: participantes.qmd
         text: Participantes
+      - href: https://se-bota.github.io/sebota/
+        text: Página general de SEBOTA
 
 
 
