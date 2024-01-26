@@ -24,7 +24,7 @@ Calendario de la salida:
 
 ## Sábado XX de xxxx
 
-#### Salida Puertollano - Pico Cabaña {.underline}
+#### [Salida Puertollano - Pico Cabaña]{.underline} 
 
 **Salida entre X:00-X:30:** Punto de reunión: Área Recreativa Puente de las Herrerías ??? (ver [aquí](https://www.google.es/)).
 
@@ -32,11 +32,11 @@ Calendario de la salida:
 -   Paso por el pinar de *P. nigra* más antiguo de Europa.
 -   Visita a poblaceiones de especies emblemáticas de Cazorla (*Aquilegia cazorlensis*, *Erodium cazorlense*)
 -   Almorzaremos en el campo y la hora de retorno dependerá de cuánto nos entretengamos en el camino.
--   Ruta aproximada: \[ver ruta en wikiloc (https://es.wikiloc.com/rutas-senderismo/pico-cabanas-desde-puerto-llano-2551124)\]
+-   Ruta aproximada: [ver ruta en wikiloc] (https://es.wikiloc.com/rutas-senderismo/pico-cabanas-desde-puerto-llano-2551124)
 
 ## Domingo XX de xxxx
 
-#### Ruta circular del Río Guadalentín {.underline}
+#### [Ruta circular del Río Guadalentín]{.underline}
 
 **Salida entre X:00-X:30:** Punto de reunión: Nava de San Pedro (ver [aquí](https://maps.app.goo.gl/KUmjX1WwtmRGRp7r8)).
 
@@ -46,7 +46,7 @@ Calendario de la salida:
 **Finalización aproximada de la ruta** 14:00h.
 
 
-#### Rutas opcionales para hacer esa tarde
+#### [Rutas opcionales para hacer esa tarde]{.underline}
 - Visita Tejos milenarios.
 - Nacimiento del Río Guadalquivir.
 - Buitreras de El Chorro.
