@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.450">
+<meta name="generator" content="quarto-1.4.549">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -44,7 +44,13 @@ ul.task-list li input[type="checkbox"] {
   "collapse-after": 3,
   "panel-placement": "start",
   "type": "textbox",
-  "limit": 20,
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -53,6 +59,7 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
     "search-submit-button-title": "Submit",
     "search-label": "Search"
@@ -68,12 +75,12 @@ ul.task-list li input[type="checkbox"] {
   <header id="quarto-header" class="headroom fixed-top">
   <nav class="quarto-secondary-nav">
     <div class="container-fluid d-flex">
-      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./schedule.html">Calendario</a></li></ol></nav>
-      <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
-      </a>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./schedule.html">Calendario</a></li></ol></nav>
+        <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
         <i class="bi bi-search"></i>
       </button>
@@ -83,13 +90,13 @@ ul.task-list li input[type="checkbox"] {
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation docked overflow-auto">
-    <div class="pt-lg-2 mt-2 text-center sidebar-header">
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header">
       <a href="./index.html" class="sidebar-logo-link">
       <img src="./SEBOTA_logo.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
       </a>
       <div class="sidebar-tools-main">
-    <a href="https://github.com/se-bota/sebota-II" rel="" title="Inicio" class="quarto-navigation-tool px-1" aria-label="Inicio"><i class="bi bi-github"></i></a>
+    <a href="https://github.com/se-bota/sebota-II" title="Inicio" class="quarto-navigation-tool px-1" aria-label="Inicio"><i class="bi bi-github"></i></a>
 </div>
       </div>
         <div class="mt-2 flex-shrink-0 align-items-center">
@@ -132,10 +139,18 @@ ul.task-list li input[type="checkbox"] {
     </ul>
     </div>
 </nav>
-<div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#viernes-xx-de-xxxx" id="toc-viernes-xx-de-xxxx" class="nav-link active" data-scroll-target="#viernes-xx-de-xxxx">Viernes XX de xxxx</a></li>
+  <li><a href="#sábado-xx-de-xxxx" id="toc-sábado-xx-de-xxxx" class="nav-link" data-scroll-target="#sábado-xx-de-xxxx">Sábado XX de xxxx</a></li>
+  <li><a href="#domingo-xx-de-xxxx" id="toc-domingo-xx-de-xxxx" class="nav-link" data-scroll-target="#domingo-xx-de-xxxx">Domingo XX de xxxx</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -155,30 +170,60 @@ ul.task-list li input[type="checkbox"] {
   </div>
   
 
+
 </header>
 
+
 <p>Calendario de la salida:</p>
-<!-- ## Viernes 16 de junio -->
-<!-- #### [Visita al **Jardín Botánico Atlántico de Gijón**.]{.underline} 15:00-18:00h. -->
-<!-- **Punto de reunión:** 15:00h, en la entrada del jardín, junto al parking (ver [aquí](https://goo.gl/maps/XxYDUgeSoDr7K5si7)). -->
+<section id="viernes-xx-de-xxxx" class="level2">
+<h2 class="anchored" data-anchor-id="viernes-xx-de-xxxx">Viernes XX de xxxx</h2>
+<section id="visita-al-jardín-botánico-torre-del-vinagre.-xx00-xx00h." class="level4">
+<h4 class="anchored" data-anchor-id="visita-al-jardín-botánico-torre-del-vinagre.-xx00-xx00h."><u>Visita al <strong>Jardín Botánico Torre del Vinagre</strong>.</u> XX:00-XX:00h.</h4>
+<p><strong>Punto de reunión:</strong> Entrada de centro de Visitantes Torre del Vinagre (ver <a href="https://maps.app.goo.gl/P8krCsSs1dyZ1WmR8">aquí</a>).</p>
 <!-- #### [Llegada al Centro de Interpretación del Parque Natural de Somiedo]{.underline} -->
-<!-- <!-- **Punto de reunión:** 20:00h, Pola de Somiedo (ver [aquí](https://goo.gl/maps/8b9YfK9h7mGovhun9)). -->
-<p>–&gt;</p>
-<!-- <!-- -   Recordad lleva 5€ por noche y persona, a ser posiblle en metálico. -->
-<p>–&gt; <!-- <!-- -   Es necesario traer sacos de dormir o mantas/sábanas para dormir, así como toallas. --> –&gt; <!-- <!-- -   En Pola de Somiedo hay bares y restaurantes para cenar, pero recomendamos que traigáis comida comprada para el almuerzo de sábado y domingo, ya que probablemente a la hora que lleguemos a Pola de Somiedo no estén los supermercados abiertos. --> –&gt; <!-- <!-- -   Tanto el sábado como el domingo podremos igualmente desayunar y cenar en cualquiera de los bares del pueblo antes de iniciar las excursiones. --> –&gt;</p>
-<!-- ## Sábado 17 de junio -->
-<!-- #### Salida al Alto de la Farrapona -->
-<!-- **Salida entre 9:00-9:30:** Punto de reunión: parking del Alto de la Farrapona (ver [aquí](https://goo.gl/maps/a1k3EaByMZTKD1Z59)). -->
-<!-- - Introducción, contexto biogeográfico,  vegetación y las tradiciones de esta región a cargo de Víctor Vázquez. -->
-<!-- - Ruta por los lagos de Saliencia y Picos Albos - flora de alta montaña y brezal atlántico.  -->
-<!-- -  Almorzaremos en el campo y la hora de retorno dependerá de cuánto nos entretengamos en el camino. -->
-<!-- ## Domingo 18 de junio -->
-<!-- #### Salida al Puerto de Somiedo -->
-<!-- **Salida entre 9:00-9:30:** Punto de reunión: Puerto de Somiedo (ver [aquí](https://goo.gl/maps/tDpmi2K2Ua1ncgXe8)). -->
-<!-- - Flora asociada a piornales subalpinos y tremedales. -->
-<!-- **Retorno a Pola de Somiedo** 14:00h. -->
+<!-- **Punto de reunión:** 20:00h, Pola de Somiedo (ver [aquí](https://goo.gl/maps/8b9YfK9h7mGovhun9)). -->
+<!-- -   Recordad lleva 5€ por noche y persona, a ser posiblle en metálico. -->
+<!-- -   Es necesario traer sacos de dormir o mantas/sábanas para dormir, así como toallas. -->
+<!-- -   En Pola de Somiedo hay bares y restaurantes para cenar, pero recomendamos que traigáis comida comprada para el almuerzo de sábado y domingo, ya que probablemente a la hora que lleguemos a Pola de Somiedo no estén los supermercados abiertos. -->
+<!-- -   Tanto el sábado como el domingo podremos igualmente desayunar y cenar en cualquiera de los bares del pueblo antes de iniciar las excursiones. -->
+</section>
+</section>
+<section id="sábado-xx-de-xxxx" class="level2">
+<h2 class="anchored" data-anchor-id="sábado-xx-de-xxxx">Sábado XX de xxxx</h2>
+<section id="salida-puertollano---pico-cabaña" class="level4 underline">
+<h4 class="underline anchored" data-anchor-id="salida-puertollano---pico-cabaña">Salida Puertollano - Pico Cabaña</h4>
+<p><strong>Salida entre X:00-X:30:</strong> Punto de reunión: Área Recreativa Puente de las Herrerías ??? (ver <a href="https://www.google.es/">aquí</a>).</p>
+<ul>
+<li>Flora caliza y dolomítica. Flora rupícola.</li>
+<li>Paso por el pinar de <em>P. nigra</em> más antiguo de Europa.</li>
+<li>Visita a poblaceiones de especies emblemáticas de Cazorla (<em>Aquilegia cazorlensis</em>, <em>Erodium cazorlense</em>)</li>
+<li>Almorzaremos en el campo y la hora de retorno dependerá de cuánto nos entretengamos en el camino.</li>
+<li>Ruta aproximada: [ver ruta en wikiloc (https://es.wikiloc.com/rutas-senderismo/pico-cabanas-desde-puerto-llano-2551124)]</li>
+</ul>
+</section>
+</section>
+<section id="domingo-xx-de-xxxx" class="level2">
+<h2 class="anchored" data-anchor-id="domingo-xx-de-xxxx">Domingo XX de xxxx</h2>
+<section id="ruta-circular-del-río-guadalentín" class="level4 underline">
+<h4 class="underline anchored" data-anchor-id="ruta-circular-del-río-guadalentín">Ruta circular del Río Guadalentín</h4>
+<p><strong>Salida entre X:00-X:30:</strong> Punto de reunión: Nava de San Pedro (ver <a href="https://maps.app.goo.gl/KUmjX1WwtmRGRp7r8">aquí</a>).</p>
+<ul>
+<li>Ruta por un arenal dolomítico.</li>
+<li>Visita a la población de <em>Rivasmartinezia cazorlana</em>.</li>
+</ul>
+<p><strong>Finalización aproximada de la ruta</strong> 14:00h.</p>
+</section>
+<section id="rutas-opcionales-para-hacer-esa-tarde" class="level4">
+<h4 class="anchored" data-anchor-id="rutas-opcionales-para-hacer-esa-tarde">Rutas opcionales para hacer esa tarde</h4>
+<ul>
+<li>Visita Tejos milenarios.</li>
+<li>Nacimiento del Río Guadalquivir.</li>
+<li>Buitreras de El Chorro.</li>
+</ul>
 
 
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -260,10 +305,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
-  function tippyHover(el, contentFn) {
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -273,8 +317,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -287,6 +340,125 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
       return note.innerHTML;
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -330,6 +502,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
+            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -355,6 +528,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -415,6 +614,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+
 
 
 

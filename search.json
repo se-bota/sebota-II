@@ -1,51 +1,102 @@
 [
   {
-    "objectID": "schedule.html",
-    "href": "schedule.html",
-    "title": "Calendario",
+    "objectID": "participantes.html",
+    "href": "participantes.html",
+    "title": "SEBOTA II Edición",
     "section": "",
-    "text": "Calendario de la salida:\n\n\n\n\n\n–&gt;\n\n–&gt;  –&gt;  –&gt;  –&gt;"
-  },
-  {
-    "objectID": "materials.html",
-    "href": "materials.html",
-    "title": "Materiales de interés para el curso",
-    "section": "",
-    "text": "Para esta edición hemos creado un proyecto de iNaturalist, englobado en un paraguas de todas las ediciones. ¡Hazte miembro y participa!\n\n\nProyecto paraguas: https://www.inaturalist.org/projects/sebota"
-  },
-  {
-    "objectID": "materials.html#proyecto-de-inaturalist",
-    "href": "materials.html#proyecto-de-inaturalist",
-    "title": "Materiales de interés para el curso",
-    "section": "",
-    "text": "Para esta edición hemos creado un proyecto de iNaturalist, englobado en un paraguas de todas las ediciones. ¡Hazte miembro y participa!\n\n\nProyecto paraguas: https://www.inaturalist.org/projects/sebota"
-  },
-  {
-    "objectID": "materials.html#mapas",
-    "href": "materials.html#mapas",
-    "title": "Materiales de interés para el curso",
-    "section": "Mapas",
-    "text": "Mapas"
-  },
-  {
-    "objectID": "materials.html#guías",
-    "href": "materials.html#guías",
-    "title": "Materiales de interés para el curso",
-    "section": "Guías",
-    "text": "Guías"
+    "text": "David Cuerda\n\n\nJunta de Andalucía\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIgnacio Ramos-Gutiérrez\n\n\nUniversidad Autónoma de Madrid\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJose Ignacio Márquez Corro\n\n\nRoyal Botanic Gardens, Kew\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSara Martín Hernanz\n\n\nUniversidad Complutense de Madrid\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJuan Carlos Velázquez Melero\n\n\nTragsatec.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Participantes"
+    ]
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "SEBOTA II Edición",
     "section": "",
-    "text": "En esta página web puedes encontrar información acerca de la segunda edición de las salidas de SEBOTA.\n\n\nPara cualquier duda, no dudéis en contactar con nosotros!\n\nIgnacio Ramos Gutiérrez (ig.ramosgutierrez@gmail.com)\n\n\nJosé Ignacio Márquez-Corro (jimarcorr@gmail.com)\n\n\nJuan Carlos Velázquez Melero (velazquezjc92@gmail.com)\n\n\nSara Martín Hernanz (sara.martin.hernanz@gmail.com)"
+    "text": "En esta página web puedes encontrar información acerca de la segunda edición de las salidas de SEBOTA.\n\n\nPara cualquier duda, no dudéis en contactar con nosotros!\n\nIgnacio Ramos Gutiérrez (ig.ramosgutierrez@gmail.com)\n\n\nJosé Ignacio Márquez-Corro (jimarcorr@gmail.com)\n\n\nJuan Carlos Velázquez Melero (velazquezjc92@gmail.com)\n\n\nSara Martín Hernanz (sara.martin.hernanz@gmail.com)",
+    "crumbs": [
+      "Inicio"
+    ]
   },
   {
-    "objectID": "participantes.html",
-    "href": "participantes.html",
-    "title": "SEBOTA II Edición",
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Calendario",
     "section": "",
-    "text": "David Cuerda\n\n\nJunta de Andalucía\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIgnacio Ramos-Gutiérrez\n\n\nUniversidad Autónoma de Madrid\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJose Ignacio Márquez Corro\n\n\nRoyal Botanic Gardens, Kew\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSara Martín Hernanz\n\n\nUniversidad Complutense de Madrid\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJuan Carlos Velázquez Melero\n\n\nTragsatec.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Calendario de la salida:",
+    "crumbs": [
+      "Calendario"
+    ]
+  },
+  {
+    "objectID": "schedule.html#viernes-xx-de-xxxx",
+    "href": "schedule.html#viernes-xx-de-xxxx",
+    "title": "Calendario",
+    "section": "Viernes XX de xxxx",
+    "text": "Viernes XX de xxxx\n\nVisita al Jardín Botánico Torre del Vinagre. XX:00-XX:00h.\nPunto de reunión: Entrada de centro de Visitantes Torre del Vinagre (ver aquí).",
+    "crumbs": [
+      "Calendario"
+    ]
+  },
+  {
+    "objectID": "schedule.html#sábado-xx-de-xxxx",
+    "href": "schedule.html#sábado-xx-de-xxxx",
+    "title": "Calendario",
+    "section": "Sábado XX de xxxx",
+    "text": "Sábado XX de xxxx\n\nSalida Puertollano - Pico Cabaña\nSalida entre X:00-X:30: Punto de reunión: Área Recreativa Puente de las Herrerías ??? (ver aquí).\n\nFlora caliza y dolomítica. Flora rupícola.\nPaso por el pinar de P. nigra más antiguo de Europa.\nVisita a poblaceiones de especies emblemáticas de Cazorla (Aquilegia cazorlensis, Erodium cazorlense)\nAlmorzaremos en el campo y la hora de retorno dependerá de cuánto nos entretengamos en el camino.\nRuta aproximada: [ver ruta en wikiloc (https://es.wikiloc.com/rutas-senderismo/pico-cabanas-desde-puerto-llano-2551124)]",
+    "crumbs": [
+      "Calendario"
+    ]
+  },
+  {
+    "objectID": "schedule.html#domingo-xx-de-xxxx",
+    "href": "schedule.html#domingo-xx-de-xxxx",
+    "title": "Calendario",
+    "section": "Domingo XX de xxxx",
+    "text": "Domingo XX de xxxx\n\nRuta circular del Río Guadalentín\nSalida entre X:00-X:30: Punto de reunión: Nava de San Pedro (ver aquí).\n\nRuta por un arenal dolomítico.\nVisita a la población de Rivasmartinezia cazorlana.\n\nFinalización aproximada de la ruta 14:00h.\n\n\nRutas opcionales para hacer esa tarde\n\nVisita Tejos milenarios.\nNacimiento del Río Guadalquivir.\nBuitreras de El Chorro.",
+    "crumbs": [
+      "Calendario"
+    ]
+  },
+  {
+    "objectID": "materials.html",
+    "href": "materials.html",
+    "title": "Materiales de interés para el curso",
+    "section": "",
+    "text": "Para esta edición hemos creado un proyecto de iNaturalist, englobado en un paraguas de todas las ediciones. ¡Hazte miembro y participa!\n\nProyecto de la II Edición de SEBOTA: https://www.inaturalist.org/projects/sebota-2024-cazorla\nProyecto paraguas: https://www.inaturalist.org/projects/sebota",
+    "crumbs": [
+      "Materiales"
+    ]
+  },
+  {
+    "objectID": "materials.html#proyecto-de-inaturalist",
+    "href": "materials.html#proyecto-de-inaturalist",
+    "title": "Materiales de interés para el curso",
+    "section": "",
+    "text": "Para esta edición hemos creado un proyecto de iNaturalist, englobado en un paraguas de todas las ediciones. ¡Hazte miembro y participa!\n\nProyecto de la II Edición de SEBOTA: https://www.inaturalist.org/projects/sebota-2024-cazorla\nProyecto paraguas: https://www.inaturalist.org/projects/sebota",
+    "crumbs": [
+      "Materiales"
+    ]
+  },
+  {
+    "objectID": "materials.html#mapas",
+    "href": "materials.html#mapas",
+    "title": "Materiales de interés para el curso",
+    "section": "Mapas",
+    "text": "Mapas\nMapa de Cazorla",
+    "crumbs": [
+      "Materiales"
+    ]
+  },
+  {
+    "objectID": "materials.html#guías",
+    "href": "materials.html#guías",
+    "title": "Materiales de interés para el curso",
+    "section": "Guías",
+    "text": "Guías\nVegetación y flora de la Sierra de Cazorla (Gómez Mercado, 20111)",
+    "crumbs": [
+      "Materiales"
+    ]
   }
 ]
