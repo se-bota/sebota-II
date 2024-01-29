@@ -4,15 +4,16 @@ title: "Calendario"
 
 Calendario de la salida:
 
-## Viernes XX de xxxx
+## Viernes 7 de junio
 
-#### [Visita al **Jardín Botánico Torre del Vinagre**.]{.underline} XX:00-XX:00h.
+#### [Visita al **Jardín Botánico Torre del Vinagre**.]{.underline} 15:00-18:00h.
 
 **Punto de reunión:** Entrada de centro de Visitantes Torre del Vinagre (ver [aquí](https://maps.app.goo.gl/P8krCsSs1dyZ1WmR8)).
 
-<!-- #### [Llegada al Centro de Interpretación del Parque Natural de Somiedo]{.underline} -->
 
-<!-- **Punto de reunión:** 20:00h, Pola de Somiedo (ver [aquí](https://goo.gl/maps/8b9YfK9h7mGovhun9)). -->
+#### Viaje al Centro Vadillo-Castril
+
+**Punto de reunión:** 20:00h, Centro de Capacitación y Experimentación Forestal de Cazorla (Vadillo-Castril) (ver [aquí](https://maps.app.goo.gl/LvikSkxsLSX7s51W9)).
 
 <!-- -   Recordad lleva 5€ por noche y persona, a ser posiblle en metálico. -->
 
@@ -22,11 +23,11 @@ Calendario de la salida:
 
 <!-- -   Tanto el sábado como el domingo podremos igualmente desayunar y cenar en cualquiera de los bares del pueblo antes de iniciar las excursiones. -->
 
-## Sábado XX de xxxx
+## Sábado 8 de juno
 
 #### [Salida Puertollano - Pico Cabaña]{.underline} 
 
-**Salida entre X:00-X:30:** Punto de reunión: Área Recreativa Puente de las Herrerías ??? (ver [aquí](https://www.google.es/)).
+**Salida entre 10:00-10:30:** Punto de reunión: Área Recreativa Puente de las Herrerías ??? (ver [aquí](https://www.google.es/)).
 
 -   Flora caliza y dolomítica. Flora rupícola.
 -   Paso por el pinar de *P. nigra* más antiguo de Europa.
@@ -34,11 +35,11 @@ Calendario de la salida:
 -   Almorzaremos en el campo y la hora de retorno dependerá de cuánto nos entretengamos en el camino.
 -   Ruta aproximada: [ver ruta en wikiloc] (https://es.wikiloc.com/rutas-senderismo/pico-cabanas-desde-puerto-llano-2551124)
 
-## Domingo XX de xxxx
+## Domingo 9 de junio
 
 #### [Ruta circular del Río Guadalentín]{.underline}
 
-**Salida entre X:00-X:30:** Punto de reunión: Nava de San Pedro (ver [aquí](https://maps.app.goo.gl/KUmjX1WwtmRGRp7r8)).
+**Salida entre 10:00-10:30:** Punto de reunión: Nava de San Pedro (ver [aquí](https://maps.app.goo.gl/KUmjX1WwtmRGRp7r8)).
 
 - Ruta por un arenal dolomítico.
 - Visita a la población de *Rivasmartinezia cazorlana*.
