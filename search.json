@@ -10,56 +10,6 @@
     ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "SEBOTA II Edición",
-    "section": "",
-    "text": "En esta página web puedes encontrar información acerca de la segunda edición de las salidas de SEBOTA.\n\n\nPara cualquier duda, no dudéis en contactar con nosotros!\n\nIgnacio Ramos Gutiérrez (ig.ramosgutierrez@gmail.com)\n\n\nJosé Ignacio Márquez-Corro (jimarcorr@gmail.com)\n\n\nJuan Carlos Velázquez Melero (velazquezjc92@gmail.com)\n\n\nSara Martín Hernanz (sara.martin.hernanz@gmail.com)",
-    "crumbs": [
-      "Inicio"
-    ]
-  },
-  {
-    "objectID": "schedule.html",
-    "href": "schedule.html",
-    "title": "Calendario",
-    "section": "",
-    "text": "Calendario de la salida:",
-    "crumbs": [
-      "Calendario"
-    ]
-  },
-  {
-    "objectID": "schedule.html#viernes-7-de-junio",
-    "href": "schedule.html#viernes-7-de-junio",
-    "title": "Calendario",
-    "section": "Viernes 7 de junio",
-    "text": "Viernes 7 de junio\n\nVisita al Jardín Botánico Torre del Vinagre. 15:00-18:00h.\nPunto de reunión: Entrada de centro de Visitantes Torre del Vinagre (ver aquí).\n\n\nViaje al Centro Vadillo-Castril\nPunto de reunión: 20:00h, Centro de Capacitación y Experimentación Forestal de Cazorla (Vadillo-Castril) (ver aquí).",
-    "crumbs": [
-      "Calendario"
-    ]
-  },
-  {
-    "objectID": "schedule.html#sábado-8-de-juno",
-    "href": "schedule.html#sábado-8-de-juno",
-    "title": "Calendario",
-    "section": "Sábado 8 de juno",
-    "text": "Sábado 8 de juno\n\nSalida Puertollano - Pico Cabaña\nSalida entre 10:00-10:30: Punto de reunión: Área Recreativa Puente de las Herrerías ??? (ver aquí).\n\nFlora caliza y dolomítica. Flora rupícola.\nPaso por el pinar de P. nigra más antiguo de Europa.\nVisita a poblaceiones de especies emblemáticas de Cazorla (Aquilegia cazorlensis, Erodium cazorlense)\nAlmorzaremos en el campo y la hora de retorno dependerá de cuánto nos entretengamos en el camino.\nRuta aproximada: [ver ruta en wikiloc] (https://es.wikiloc.com/rutas-senderismo/pico-cabanas-desde-puerto-llano-2551124)",
-    "crumbs": [
-      "Calendario"
-    ]
-  },
-  {
-    "objectID": "schedule.html#domingo-9-de-junio",
-    "href": "schedule.html#domingo-9-de-junio",
-    "title": "Calendario",
-    "section": "Domingo 9 de junio",
-    "text": "Domingo 9 de junio\n\nRuta circular del Río Guadalentín\nSalida entre 10:00-10:30: Punto de reunión: Nava de San Pedro (ver aquí).\n\nRuta por un arenal dolomítico.\nVisita a la población de Rivasmartinezia cazorlana.\n\nFinalización aproximada de la ruta 14:00h.\n\n\nRutas opcionales para hacer esa tarde\n\nVisita Tejos milenarios.\nNacimiento del Río Guadalquivir.\nBuitreras de El Chorro.",
-    "crumbs": [
-      "Calendario"
-    ]
-  },
-  {
     "objectID": "materials.html",
     "href": "materials.html",
     "title": "Materiales de interés para el curso",
@@ -94,9 +44,79 @@
     "href": "materials.html#guías",
     "title": "Materiales de interés para el curso",
     "section": "Guías",
-    "text": "Guías\nVegetación y flora de la Sierra de Cazorla (Gómez Mercado, 20111)",
+    "text": "Guías\nVegetación y flora de la Sierra de Cazorla (Gómez Mercado, 20111)\nVegetación y flora de la Sierra de Cazorla (Gómez Mercado, 2011)\nFlora Vascular de Andalucía Oriental, Tomo I\nFlora Vascular de Andalucía Oriental, Tomo II\nFlora Vascular de Andalucía Oriental, Tomo III\nFlora Vascular de Andalucía Oriental, Tomo IV",
     "crumbs": [
       "Materiales"
+    ]
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Calendario",
+    "section": "",
+    "text": "Calendario de la salida:\n&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD ## Viernes XX de xxxx",
+    "crumbs": [
+      "Calendario"
+    ]
+  },
+  {
+    "objectID": "schedule.html#sábado-xx-de-xxxx",
+    "href": "schedule.html#sábado-xx-de-xxxx",
+    "title": "Calendario",
+    "section": "Sábado XX de xxxx",
+    "text": "Sábado XX de xxxx\n\nSalida Puertollano - Pico Cabaña\nSalida entre X:00-X:30: Punto de reunión: Área Recreativa Puente de las Herrerías ??? (ver aquí).\n\nFlora caliza y dolomítica. Flora rupícola.\nPaso por el pinar de P. nigra más antiguo de Europa.\nVisita a poblaceiones de especies emblemáticas de Cazorla (Aquilegia cazorlensis, Erodium cazorlense)\nAlmorzaremos en el campo y la hora de retorno dependerá de cuánto nos entretengamos en el camino.\nRuta aproximada: [ver ruta en wikiloc (https://es.wikiloc.com/rutas-senderismo/pico-cabanas-desde-puerto-llano-2551124)]",
+    "crumbs": [
+      "Calendario"
+    ]
+  },
+  {
+    "objectID": "schedule.html#domingo-xx-de-xxxx",
+    "href": "schedule.html#domingo-xx-de-xxxx",
+    "title": "Calendario",
+    "section": "Domingo XX de xxxx",
+    "text": "Domingo XX de xxxx\n\nRuta circular del Río Guadalentín\nSalida entre X:00-X:30: Punto de reunión: Nava de San Pedro (ver aquí).\n\nRuta por un arenal dolomítico.\nVisita a la población de Rivasmartinezia cazorlana.\n\nFinalización aproximada de la ruta 14:00h.",
+    "crumbs": [
+      "Calendario"
+    ]
+  },
+  {
+    "objectID": "schedule.html#viernes-7-de-junio",
+    "href": "schedule.html#viernes-7-de-junio",
+    "title": "Calendario",
+    "section": "Viernes 7 de junio",
+    "text": "Viernes 7 de junio\n\nVisita al Jardín Botánico Torre del Vinagre. 15:00-18:00h.\nPunto de reunión: Entrada de centro de Visitantes Torre del Vinagre (ver aquí).\n\n\nViaje al Centro Vadillo-Castril\nPunto de reunión: 20:00h, Centro de Capacitación y Experimentación Forestal de Cazorla (Vadillo-Castril) (ver aquí).",
+    "crumbs": [
+      "Calendario"
+    ]
+  },
+  {
+    "objectID": "schedule.html#sábado-8-de-juno",
+    "href": "schedule.html#sábado-8-de-juno",
+    "title": "Calendario",
+    "section": "Sábado 8 de juno",
+    "text": "Sábado 8 de juno\n\nSalida Puertollano - Pico Cabaña\nSalida entre 10:00-10:30: Punto de reunión: Área Recreativa Puente de las Herrerías ??? (ver aquí).\n\nFlora caliza y dolomítica. Flora rupícola.\nPaso por el pinar de P. nigra más antiguo de Europa.\nVisita a poblaceiones de especies emblemáticas de Cazorla (Aquilegia pyrenaica subsp. cazorlensis, Erodium cazorlense)\nAlmorzaremos en el campo y la hora de retorno dependerá de cuánto nos entretengamos en el camino.\nRuta aproximada: [ver ruta en wikiloc] (https://es.wikiloc.com/rutas-senderismo/pico-cabanas-desde-puerto-llano-2551124)",
+    "crumbs": [
+      "Calendario"
+    ]
+  },
+  {
+    "objectID": "schedule.html#domingo-9-de-junio",
+    "href": "schedule.html#domingo-9-de-junio",
+    "title": "Calendario",
+    "section": "Domingo 9 de junio",
+    "text": "Domingo 9 de junio\n\nRuta circular del Río Guadalentín\nSalida entre 10:00-10:30: Punto de reunión: Nava de San Pedro (ver aquí).\n\nRuta por un arenal dolomítico.\nVisita a la población de Rivasmartinezia cazorlana.\n\nFinalización aproximada de la ruta 14:00h.\n\n\nRutas opcionales para hacer esa tarde\n\n\n\n\n\n\n\na6b4c90d7c564d7bfedc1ae3e65b8989620831ca - Visita Tejos milenarios. - Nacimiento del Río Guadalquivir. - Buitreras de El Chorro.",
+    "crumbs": [
+      "Calendario"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "SEBOTA II Edición",
+    "section": "",
+    "text": "En esta página web puedes encontrar información acerca de la segunda edición de las salidas de SEBOTA.\n\n\nPara cualquier duda, no dudéis en contactar con nosotros!\n\nIgnacio Ramos Gutiérrez (ig.ramosgutierrez@gmail.com)\n\n\nJosé Ignacio Márquez-Corro (jimarcorr@gmail.com)\n\n\nJuan Carlos Velázquez Melero (velazquezjc92@gmail.com)\n\n\nSara Martín Hernanz (sara.martin.hernanz@gmail.com)",
+    "crumbs": [
+      "Inicio"
     ]
   }
 ]
