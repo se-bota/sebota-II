@@ -20,5 +20,5 @@ Para cualquier duda, no dudéis en contactar con nosotros!
 
 
 
-[![HitCount](https://hits.dwyl.com/se-bota/sebota-II.svg?style=flat)](https://hits.dwyl.com/se-bota/sebota-II)
-[![HitCount](https://hits.dwyl.com/se-bota/sebota-II.svg?style=flat&show=unique)](https://hits.dwyl.com/se-bota/sebota-II)
+[![HitCount](http://hits.dwyl.com/se-bota/sebota-II.svg?style=flat)](http://hits.dwyl.com/se-bota/sebota-II)
+[![HitCount](http://hits.dwyl.com/se-bota/sebota-II.svg?style=flat&show=unique)](http://hits.dwyl.com/se-bota/sebota-II)
