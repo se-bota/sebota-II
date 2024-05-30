@@ -1,5 +1,5 @@
 ---
-title: Elgaru
+title: Elena García Rutiña
 sortby: 19
 subtitle: Sociedad Española de Geobotánica
 image: blank.png
